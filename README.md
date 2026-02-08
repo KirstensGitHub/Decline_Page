@@ -1,2 +1,2 @@
 # Decline_Page
-This repository simply hosts the page participants see if they decline to participate in our online study(s)
+This repository hosts the debrief form and the page for declining participation in our online study(s)
